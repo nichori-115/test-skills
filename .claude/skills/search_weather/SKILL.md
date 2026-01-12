@@ -10,5 +10,5 @@ city: string
 date: YYYY/mm/dd
 
 ```shell
-python scripts/search_weather.py <city> <date>
+uv run scripts/search_weather.py <city> <date>
 ```
